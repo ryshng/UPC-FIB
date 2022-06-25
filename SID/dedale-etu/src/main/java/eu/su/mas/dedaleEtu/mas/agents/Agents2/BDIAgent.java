@@ -70,6 +70,7 @@ public class BDIAgent extends SingleCapabilityAgent {
 		private static final long serialVersionUID = 4053121889746128230L;
 
 		public DFRegisterGoal() {}
+		//
     }
 
     public class DFRegisterPlan extends AbstractPlanBody {
