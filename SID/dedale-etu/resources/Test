@@ -1,6 +1,0 @@
-mapname:map2018MultiTypes
-agentCollect:Collect1:3:free:100:100:0:1:1
-agentCollect:Collect2:3:free:100:100:0:1:1
-agentTanker:Tanker1:3:free:300:200:0:1:0
-agentTanker:TankerDummy:3:free:300:200:0:1:5
-agentExplo:Explo1declared:3:free:-1:-1:0:1:1
